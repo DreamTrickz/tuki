@@ -39,12 +39,13 @@
             subcategoríaToolStripMenuItem = new ToolStripMenuItem();
             unidadDeMedidaToolStripMenuItem = new ToolStripMenuItem();
             ítemsToolStripMenuItem = new ToolStripMenuItem();
+            bodegaToolStripMenuItem = new ToolStripMenuItem();
+            planCuentasToolStripMenuItem = new ToolStripMenuItem();
             toolStrip1 = new ToolStrip();
             toolStripButtonMarcas = new ToolStripButton();
             toolStripSeparator1 = new ToolStripSeparator();
             statusStrip1 = new StatusStrip();
             toolStripStatusLabel1 = new ToolStripStatusLabel();
-            bodegaToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             toolStrip1.SuspendLayout();
             statusStrip1.SuspendLayout();
@@ -90,7 +91,7 @@
             // 
             // inventarioToolStripMenuItem
             // 
-            inventarioToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { marcasToolStripMenuItem, categoríaToolStripMenuItem, subcategoríaToolStripMenuItem, unidadDeMedidaToolStripMenuItem, ítemsToolStripMenuItem, bodegaToolStripMenuItem });
+            inventarioToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { marcasToolStripMenuItem, categoríaToolStripMenuItem, subcategoríaToolStripMenuItem, unidadDeMedidaToolStripMenuItem, ítemsToolStripMenuItem, bodegaToolStripMenuItem, planCuentasToolStripMenuItem });
             inventarioToolStripMenuItem.Image = (Image)resources.GetObject("inventarioToolStripMenuItem.Image");
             inventarioToolStripMenuItem.ImageScaling = ToolStripItemImageScaling.None;
             inventarioToolStripMenuItem.Name = "inventarioToolStripMenuItem";
@@ -127,18 +128,26 @@
             unidadDeMedidaToolStripMenuItem.Text = "Unidades de medida";
             unidadDeMedidaToolStripMenuItem.Click += unidadDeMedidaToolStripMenuItem_Click;
             // 
-            // bodegaToolStripMenuItem
-            // 
-            bodegaToolStripMenuItem.Name = "bodegaToolStripMenuItem";
-            bodegaToolStripMenuItem.Size = new Size(242, 38);
-            bodegaToolStripMenuItem.Text = "Bodega";
-            bodegaToolStripMenuItem.Click += bodegasToolStripMenuItem_Click;
             // ítemsToolStripMenuItem
             // 
             ítemsToolStripMenuItem.Name = "ítemsToolStripMenuItem";
             ítemsToolStripMenuItem.Size = new Size(242, 38);
             ítemsToolStripMenuItem.Text = "Ítems";
             ítemsToolStripMenuItem.Click += ítemsToolStripMenuItem_Click;
+            // 
+            // bodegaToolStripMenuItem
+            // 
+            bodegaToolStripMenuItem.Name = "bodegaToolStripMenuItem";
+            bodegaToolStripMenuItem.Size = new Size(242, 38);
+            bodegaToolStripMenuItem.Text = "Bodega";
+            bodegaToolStripMenuItem.Click += bodegasToolStripMenuItem_Click;
+            // 
+            // planCuentasToolStripMenuItem
+            // 
+            planCuentasToolStripMenuItem.Name = "planCuentasToolStripMenuItem";
+            planCuentasToolStripMenuItem.Size = new Size(242, 38);
+            planCuentasToolStripMenuItem.Text = "Plan Cuentas";
+            planCuentasToolStripMenuItem.Click += PlanCuentasToolStripMenuItem_Click;
             // 
             // toolStrip1
             // 
@@ -185,7 +194,6 @@
             toolStripStatusLabel1.Size = new Size(100, 20);
             toolStripStatusLabel1.Text = "UsuarioDemo";
             toolStripStatusLabel1.Click += toolStripStatusLabel1_Click;
-            //
             // 
             // FormPrincipal
             // 
@@ -203,6 +211,7 @@
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Principal";
             WindowState = FormWindowState.Maximized;
+            Load += FormPrincipal_Load;
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             toolStrip1.ResumeLayout(false);
@@ -231,5 +240,6 @@
         private ToolStripMenuItem unidadDeMedidaToolStripMenuItem;
         private ToolStripMenuItem ítemsToolStripMenuItem;
         private ToolStripMenuItem bodegaToolStripMenuItem;
+        private ToolStripMenuItem planCuentasToolStripMenuItem;
     }
 }

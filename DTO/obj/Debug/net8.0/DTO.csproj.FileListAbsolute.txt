@@ -20,3 +20,4 @@ C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DT
 C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\obj\Debug\net8.0\refint\Demo.DTO.dll
 C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\obj\Debug\net8.0\Demo.DTO.pdb
 C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\obj\Debug\net8.0\ref\Demo.DTO.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\obj\Debug\net8.0\DTO.sourcelink.json

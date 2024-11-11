@@ -32,3 +32,4 @@ C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\BL
 C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\BL\obj\Debug\net8.0\refint\Demo.BL.dll
 C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\BL\obj\Debug\net8.0\Demo.BL.pdb
 C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\BL\obj\Debug\net8.0\ref\Demo.BL.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\BL\obj\Debug\net8.0\BL.sourcelink.json

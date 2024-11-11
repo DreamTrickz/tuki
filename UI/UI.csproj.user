@@ -16,6 +16,9 @@
     <Compile Update="INV\FormMarca.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="INV\FormPlanCuentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="INV\FormSubcategoria.cs">
       <SubType>Form</SubType>
     </Compile>

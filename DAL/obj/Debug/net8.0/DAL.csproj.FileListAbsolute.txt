@@ -28,3 +28,4 @@ C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DA
 C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\refint\Demo.DAL.dll
 C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\Demo.DAL.pdb
 C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\ref\Demo.DAL.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\DAL.sourcelink.json

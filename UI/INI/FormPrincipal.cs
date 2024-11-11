@@ -144,7 +144,28 @@ namespace Demo.UI.INI
                 // Traer el formulario al frente si ya está abierto
                 childForm.BringToFront();
                 childForm.WindowState = FormWindowState.Normal;
+            }   
+        }
+        private void PlanCuentasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (childForm == null || childForm.IsDisposed)
+            {
+                childForm = new INV.FormPlanCuentas(); // Abre el formulario de Plan de Cuentas
+                childForm.MdiParent = this;
+                childForm.Text = "Plan de Cuentas";
+                childForm.Show();
             }
+            else
+            {
+                // Traer el formulario al frente si ya está abierto
+                childForm.BringToFront();
+                childForm.WindowState = FormWindowState.Normal;
+            }
+        }
+
+        private void FormPrincipal_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

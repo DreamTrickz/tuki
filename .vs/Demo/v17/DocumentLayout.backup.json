@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\ui\\inv\\formplancuentas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|solutionrelative:ui\\inv\\formplancuentas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\ui\\ini\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|solutionrelative:ui\\ini\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\ui\\ini\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|solutionrelative:ui\\ini\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\ui\\ini\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|solutionrelative:ui\\ini\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\ui\\inv\\formplancuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|solutionrelative:ui\\inv\\formplancuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\ui\\inv\\formbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|solutionrelative:ui\\inv\\formbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FE51E-C2EB-4F13-9BCF-F9FE8D1B40CE}|BL\\BL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\bl\\inv\\plancuentasbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06FE51E-C2EB-4F13-9BCF-F9FE8D1B40CE}|BL\\BL.csproj|solutionrelative:bl\\inv\\plancuentasbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06FE51E-C2EB-4F13-9BCF-F9FE8D1B40CE}|BL\\BL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\bl\\inv\\marcabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06FE51E-C2EB-4F13-9BCF-F9FE8D1B40CE}|BL\\BL.csproj|solutionrelative:bl\\inv\\marcabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dal\\inv\\plancuentasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|solutionrelative:dal\\inv\\plancuentasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dal\\inv\\plancuentasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|solutionrelative:dal\\inv\\plancuentasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479631CF-F5C9-4CEA-9B8D-B1143721FDDA}|DTO\\DTO.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dto\\inv\\plancuentasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479631CF-F5C9-4CEA-9B8D-B1143721FDDA}|DTO\\DTO.csproj|solutionrelative:dto\\inv\\plancuentasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479631CF-F5C9-4CEA-9B8D-B1143721FDDA}|DTO\\DTO.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dto\\inv\\marcadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479631CF-F5C9-4CEA-9B8D-B1143721FDDA}|DTO\\DTO.csproj|solutionrelative:dto\\inv\\marcadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\ui\\inv\\formbodega.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,40 +59,24 @@
       "RelativeMoniker": "D:0:0:{A06FE51E-C2EB-4F13-9BCF-F9FE8D1B40CE}|BL\\BL.csproj|solutionrelative:bl\\inv\\bodegabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{479631CF-F5C9-4CEA-9B8D-B1143721FDDA}|DTO\\DTO.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dto\\inv\\marcadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479631CF-F5C9-4CEA-9B8D-B1143721FDDA}|DTO\\DTO.csproj|solutionrelative:dto\\inv\\marcadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A06FE51E-C2EB-4F13-9BCF-F9FE8D1B40CE}|BL\\BL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\bl\\inv\\marcabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A06FE51E-C2EB-4F13-9BCF-F9FE8D1B40CE}|BL\\BL.csproj|solutionrelative:bl\\inv\\marcabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\ui\\inv\\formbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|solutionrelative:ui\\inv\\formbodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dal\\inv\\bodegadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|solutionrelative:dal\\inv\\bodegadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dal\\inv\\bodegadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|solutionrelative:dal\\inv\\bodegadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dal\\inv\\bodegadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|solutionrelative:dal\\inv\\bodegadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dal\\inv\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|solutionrelative:dal\\inv\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{479631CF-F5C9-4CEA-9B8D-B1143721FDDA}|DTO\\DTO.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dto\\inv\\bodegadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{479631CF-F5C9-4CEA-9B8D-B1143721FDDA}|DTO\\DTO.csproj|solutionrelative:dto\\inv\\bodegadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\ui\\ini\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|solutionrelative:ui\\ini\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\ui\\ini\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|solutionrelative:ui\\ini\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\ui\\ini\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|solutionrelative:ui\\ini\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{479631CF-F5C9-4CEA-9B8D-B1143721FDDA}|DTO\\DTO.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dto\\inv\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479631CF-F5C9-4CEA-9B8D-B1143721FDDA}|DTO\\DTO.csproj|solutionrelative:dto\\inv\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dal\\inv\\unidadmedidadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,14 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\ui\\inv\\formmarca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821BD1CC-9127-4A12-BD64-CA524934A394}|UI\\UI.csproj|solutionrelative:ui\\inv\\formmarca.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{479631CF-F5C9-4CEA-9B8D-B1143721FDDA}|DTO\\DTO.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dto\\inv\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479631CF-F5C9-4CEA-9B8D-B1143721FDDA}|DTO\\DTO.csproj|solutionrelative:dto\\inv\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dal\\inv\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F50013-3F7D-4F4B-82A5-15A88B4F4DA9}|DAL\\DAL.csproj|solutionrelative:dal\\inv\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{479631CF-F5C9-4CEA-9B8D-B1143721FDDA}|DTO\\DTO.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\demo\\dto\\inv\\unidadmedidadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,98 +142,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormBodega.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormBodega.cs",
-              "RelativeDocumentMoniker": "UI\\INV\\FormBodega.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormBodega.cs",
-              "RelativeToolTip": "UI\\INV\\FormBodega.cs",
-              "ViewState": "AgIAANoAAAAAAAAAAAAUwBgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T14:22:12.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormBodega.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormBodega.Designer.cs",
-              "RelativeDocumentMoniker": "UI\\INV\\FormBodega.Designer.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormBodega.Designer.cs",
-              "RelativeToolTip": "UI\\INV\\FormBodega.Designer.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAYwCEAAAAsAAAAAAAAAA==",
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INI\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "UI\\INI\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INI\\FormPrincipal.cs",
+              "RelativeToolTip": "UI\\INI\\FormPrincipal.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv5IAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T14:20:30.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BodegaBL.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\BodegaBL.cs",
-              "RelativeDocumentMoniker": "BL\\INV\\BodegaBL.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\BodegaBL.cs",
-              "RelativeToolTip": "BL\\INV\\BodegaBL.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T04:03:35.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BodegaDAL.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\BodegaDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\INV\\BodegaDAL.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\BodegaDAL.cs",
-              "RelativeToolTip": "DAL\\INV\\BodegaDAL.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAUwDIAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T03:46:41.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BodegaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\BodegaDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\INV\\BodegaDTO.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\BodegaDTO.cs",
-              "RelativeToolTip": "DTO\\INV\\BodegaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T03:25:55.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BodegaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\BodegaDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\INV\\BodegaDbContext.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\BodegaDbContext.cs",
-              "RelativeToolTip": "DAL\\INV\\BodegaDbContext.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T03:38:45.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MarcaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\MarcaDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\INV\\MarcaDTO.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\MarcaDTO.cs",
-              "RelativeToolTip": "DTO\\INV\\MarcaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T22:40:25.111Z",
+              "WhenOpened": "2024-11-11T13:17:07.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "FormPlanCuentas.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormPlanCuentas.cs",
+              "RelativeDocumentMoniker": "UI\\INV\\FormPlanCuentas.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormPlanCuentas.cs",
+              "RelativeToolTip": "UI\\INV\\FormPlanCuentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:58:21.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlanCuentasDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\PlanCuentasDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\INV\\PlanCuentasDTO.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\PlanCuentasDTO.cs",
+              "RelativeToolTip": "DTO\\INV\\PlanCuentasDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:33:23.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MarcaBL.cs",
               "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\MarcaBL.cs",
               "RelativeDocumentMoniker": "BL\\INV\\MarcaBL.cs",
@@ -221,136 +187,129 @@
               "RelativeToolTip": "BL\\INV\\MarcaBL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T22:55:33.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T22:55:33.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormBodega.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormBodega.cs",
-              "RelativeDocumentMoniker": "UI\\INV\\FormBodega.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormBodega.cs [Dise\u00F1o]",
-              "RelativeToolTip": "UI\\INV\\FormBodega.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T18:10:38.995Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FormPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INI\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "UI\\INI\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INI\\FormPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "UI\\INI\\FormPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T14:42:13.275Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "FormPrincipal.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INI\\FormPrincipal.Designer.cs",
               "RelativeDocumentMoniker": "UI\\INI\\FormPrincipal.Designer.cs",
               "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INI\\FormPrincipal.Designer.cs",
               "RelativeToolTip": "UI\\INI\\FormPrincipal.Designer.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAcwIYAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAQwI4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T14:45:32.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormPrincipal.cs",
+              "DocumentIndex": 8,
+              "Title": "PlanCuentasDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\PlanCuentasDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\INV\\PlanCuentasDAL.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\PlanCuentasDAL.cs",
+              "RelativeToolTip": "DAL\\INV\\PlanCuentasDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:42:44.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBodega.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormBodega.cs",
+              "RelativeDocumentMoniker": "UI\\INV\\FormBodega.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormBodega.cs",
+              "RelativeToolTip": "UI\\INV\\FormBodega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:22:12.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPlanCuentas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormPlanCuentas.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\INV\\FormPlanCuentas.Designer.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormPlanCuentas.Designer.cs",
+              "RelativeToolTip": "UI\\INV\\FormPlanCuentas.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwFkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:59:27.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPrincipal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INI\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "UI\\INI\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INI\\FormPrincipal.cs",
-              "RelativeToolTip": "UI\\INI\\FormPrincipal.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAADwv4oAAAA3AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INI\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "UI\\INI\\FormPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T14:42:52.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T13:23:37.636Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FormMarca.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormMarca.cs",
-              "RelativeDocumentMoniker": "UI\\INV\\FormMarca.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormMarca.cs",
-              "RelativeToolTip": "UI\\INV\\FormMarca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "PlanCuentasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\PlanCuentasDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\INV\\PlanCuentasDbContext.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\PlanCuentasDbContext.cs",
+              "RelativeToolTip": "DAL\\INV\\PlanCuentasDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T18:11:54.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T12:37:14.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UnidadMedidaDAL.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\UnidadMedidaDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\INV\\UnidadMedidaDAL.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\UnidadMedidaDAL.cs",
-              "RelativeToolTip": "DAL\\INV\\UnidadMedidaDAL.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAwwBoAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "MarcaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\MarcaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\INV\\MarcaDTO.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\MarcaDTO.cs",
+              "RelativeToolTip": "DTO\\INV\\MarcaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T13:03:13.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T22:40:25.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlanCuentasBL.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\PlanCuentasBL.cs",
+              "RelativeDocumentMoniker": "BL\\INV\\PlanCuentasBL.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\PlanCuentasBL.cs",
+              "RelativeToolTip": "BL\\INV\\PlanCuentasBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:46:40.371Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "CategoriaBL.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\CategoriaBL.cs",
-              "RelativeDocumentMoniker": "BL\\INV\\CategoriaBL.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\CategoriaBL.cs",
-              "RelativeToolTip": "BL\\INV\\CategoriaBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Title": "BodegaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\BodegaDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\INV\\BodegaDbContext.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\BodegaDbContext.cs",
+              "RelativeToolTip": "DAL\\INV\\BodegaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T18:16:31.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T03:38:45.37Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "UnidadMedidaBL.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\UnidadMedidaBL.cs",
-              "RelativeDocumentMoniker": "BL\\INV\\UnidadMedidaBL.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\UnidadMedidaBL.cs",
-              "RelativeToolTip": "BL\\INV\\UnidadMedidaBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Title": "BodegaBL.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\BodegaBL.cs",
+              "RelativeDocumentMoniker": "BL\\INV\\BodegaBL.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\BodegaBL.cs",
+              "RelativeToolTip": "BL\\INV\\BodegaBL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T19:17:58.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UnidadMedidaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\UnidadMedidaDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\INV\\UnidadMedidaDbContext.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\UnidadMedidaDbContext.cs",
-              "RelativeToolTip": "DAL\\INV\\UnidadMedidaDbContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA/wDIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:56:04.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FormMarca.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormMarca.Designer.cs",
-              "RelativeDocumentMoniker": "UI\\INV\\FormMarca.Designer.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormMarca.Designer.cs",
-              "RelativeToolTip": "UI\\INV\\FormMarca.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T19:31:20.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T04:03:35.804Z"
             },
             {
               "$type": "Document",
@@ -362,36 +321,11 @@
               "RelativeToolTip": "DTO\\INV\\CategoriaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T13:43:40.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T13:43:40.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FormUnidadMedida.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormUnidadMedida.cs",
-              "RelativeDocumentMoniker": "UI\\INV\\FormUnidadMedida.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormUnidadMedida.cs",
-              "RelativeToolTip": "UI\\INV\\FormUnidadMedida.cs",
-              "ViewState": "AgIAAIcBAAAAAAAAAAAmwF8BAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T13:18:27.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UnidadMedidaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\UnidadMedidaDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\INV\\UnidadMedidaDTO.cs",
-              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\UnidadMedidaDTO.cs",
-              "RelativeToolTip": "DTO\\INV\\UnidadMedidaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T19:36:07.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "CategoriaDAL.cs",
               "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\CategoriaDAL.cs",
               "RelativeDocumentMoniker": "DAL\\INV\\CategoriaDAL.cs",
@@ -403,7 +337,139 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormBodega.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormBodega.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\INV\\FormBodega.Designer.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormBodega.Designer.cs",
+              "RelativeToolTip": "UI\\INV\\FormBodega.Designer.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAYwPYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:20:30.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BodegaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\BodegaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\INV\\BodegaDTO.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\BodegaDTO.cs",
+              "RelativeToolTip": "DTO\\INV\\BodegaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:25:55.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BodegaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\BodegaDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\INV\\BodegaDAL.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\BodegaDAL.cs",
+              "RelativeToolTip": "DAL\\INV\\BodegaDAL.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwDIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:46:41.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormMarca.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormMarca.cs",
+              "RelativeDocumentMoniker": "UI\\INV\\FormMarca.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormMarca.cs",
+              "RelativeToolTip": "UI\\INV\\FormMarca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:11:54.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnidadMedidaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\UnidadMedidaDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\INV\\UnidadMedidaDAL.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\UnidadMedidaDAL.cs",
+              "RelativeToolTip": "DAL\\INV\\UnidadMedidaDAL.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:03:13.812Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "CategoriaBL.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\CategoriaBL.cs",
+              "RelativeDocumentMoniker": "BL\\INV\\CategoriaBL.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\CategoriaBL.cs",
+              "RelativeToolTip": "BL\\INV\\CategoriaBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:16:31.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnidadMedidaBL.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\UnidadMedidaBL.cs",
+              "RelativeDocumentMoniker": "BL\\INV\\UnidadMedidaBL.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\BL\\INV\\UnidadMedidaBL.cs",
+              "RelativeToolTip": "BL\\INV\\UnidadMedidaBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:17:58.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnidadMedidaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\UnidadMedidaDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\INV\\UnidadMedidaDbContext.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\UnidadMedidaDbContext.cs",
+              "RelativeToolTip": "DAL\\INV\\UnidadMedidaDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA/wDIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:56:04.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormMarca.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormMarca.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\INV\\FormMarca.Designer.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormMarca.Designer.cs",
+              "RelativeToolTip": "UI\\INV\\FormMarca.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:31:20.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormUnidadMedida.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormUnidadMedida.cs",
+              "RelativeDocumentMoniker": "UI\\INV\\FormUnidadMedida.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormUnidadMedida.cs",
+              "RelativeToolTip": "UI\\INV\\FormUnidadMedida.cs",
+              "ViewState": "AgIAAIcBAAAAAAAAAAAmwF8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:18:27.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UnidadMedidaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\UnidadMedidaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\INV\\UnidadMedidaDTO.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DTO\\INV\\UnidadMedidaDTO.cs",
+              "RelativeToolTip": "DTO\\INV\\UnidadMedidaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:36:07.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "FormUnidadMedida.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\INV\\FormUnidadMedida.Designer.cs",
               "RelativeDocumentMoniker": "UI\\INV\\FormUnidadMedida.Designer.cs",
@@ -415,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "CategoriaDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\DAL\\INV\\CategoriaDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\INV\\CategoriaDbContext.cs",
@@ -427,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Principal.cs",
               "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Demo\\UI\\Principal.cs",
               "RelativeDocumentMoniker": "UI\\Principal.cs",
