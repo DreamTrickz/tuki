@@ -27,10 +27,12 @@ namespace Demo.BL.INV
             return _planCuentasDal.ObtenerPlanCuentassConFiltro(filtro);
         }
 
-        public void GuardarPlanCuentas(string nombreCuenta, DateTime fechaCreacion, string usuarioCrea, bool estado)
+        public void GuardarPlanCuentas(int codigoCuenta, string nombreCuenta, string tipoCuenta, DateTime fechaCreacion, string usuarioCrea, bool estado)
         {
             var planCuentas = new PlanCuentasDTO
             {
+                CodigoCuenta = codigoCuenta,
+                TipoCuenta = tipoCuenta,
                 NombreCuenta = nombreCuenta,
                 FechaCreacion = fechaCreacion,
                 UsuarioCrea= usuarioCrea,
