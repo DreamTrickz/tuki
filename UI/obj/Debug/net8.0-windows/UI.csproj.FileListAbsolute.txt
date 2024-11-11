@@ -1,0 +1,159 @@
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Demo.UI.exe
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\App.config
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Demo.UI.dll.config
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Demo.UI.deps.json
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Demo.UI.runtimeconfig.json
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Demo.UI.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Demo.UI.pdb
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Demo.BL.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Demo.DAL.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Demo.DTO.dll
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Demo.BL.pdb
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Demo.DTO.pdb
+C:\Users\CEO\source\repos\Demo\UI\bin\Debug\net8.0-windows\Demo.DAL.pdb
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INI.FormPrincipal.resources
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INV.FormCategoria.resources
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INV.FormConsultarSubcategorias.resources
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INV.FormItem.resources
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INV.FormMarca.resources
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INV.FormSubcategoria.resources
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INV.FormUnidadMedida.resources
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.Properties.Resources.resources
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.dll
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\refint\Demo.UI.dll
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.pdb
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\CEO\source\repos\Demo\UI\obj\Debug\net8.0-windows\ref\Demo.UI.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Demo.UI.exe
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\App.config
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Demo.UI.dll.config
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Demo.UI.deps.json
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Demo.UI.runtimeconfig.json
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Demo.UI.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Demo.UI.pdb
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Demo.BL.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Demo.DAL.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Demo.DTO.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Demo.BL.pdb
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Demo.DTO.pdb
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\bin\Debug\net8.0-windows\Demo.DAL.pdb
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INI.FormPrincipal.resources
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INV.FormCategoria.resources
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INV.FormConsultarSubcategorias.resources
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INV.FormItem.resources
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INV.FormMarca.resources
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INV.FormSubcategoria.resources
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INV.FormUnidadMedida.resources
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.Properties.Resources.resources
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\refint\Demo.UI.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.pdb
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\ref\Demo.UI.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\UI\obj\Debug\net8.0-windows\Demo.UI.INV.FormBodega.resources

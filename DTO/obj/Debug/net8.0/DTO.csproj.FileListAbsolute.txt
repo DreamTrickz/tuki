@@ -1,0 +1,22 @@
+C:\Users\CEO\source\repos\Demo\DTO\bin\Debug\net8.0\Demo.DTO.deps.json
+C:\Users\CEO\source\repos\Demo\DTO\bin\Debug\net8.0\Demo.DTO.dll
+C:\Users\CEO\source\repos\Demo\DTO\bin\Debug\net8.0\Demo.DTO.pdb
+C:\Users\CEO\source\repos\Demo\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEO\source\repos\Demo\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\CEO\source\repos\Demo\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\CEO\source\repos\Demo\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\CEO\source\repos\Demo\DTO\obj\Debug\net8.0\Demo.DTO.dll
+C:\Users\CEO\source\repos\Demo\DTO\obj\Debug\net8.0\refint\Demo.DTO.dll
+C:\Users\CEO\source\repos\Demo\DTO\obj\Debug\net8.0\Demo.DTO.pdb
+C:\Users\CEO\source\repos\Demo\DTO\obj\Debug\net8.0\ref\Demo.DTO.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\bin\Debug\net8.0\Demo.DTO.deps.json
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\bin\Debug\net8.0\Demo.DTO.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\bin\Debug\net8.0\Demo.DTO.pdb
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\obj\Debug\net8.0\Demo.DTO.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\obj\Debug\net8.0\refint\Demo.DTO.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\obj\Debug\net8.0\Demo.DTO.pdb
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DTO\obj\Debug\net8.0\ref\Demo.DTO.dll

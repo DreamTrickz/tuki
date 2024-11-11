@@ -1,0 +1,30 @@
+C:\Users\CEO\source\repos\Demo\DAL\bin\Debug\net8.0\Demo.DAL.deps.json
+C:\Users\CEO\source\repos\Demo\DAL\bin\Debug\net8.0\Demo.DAL.dll
+C:\Users\CEO\source\repos\Demo\DAL\bin\Debug\net8.0\Demo.DAL.pdb
+C:\Users\CEO\source\repos\Demo\DAL\bin\Debug\net8.0\Demo.DTO.dll
+C:\Users\CEO\source\repos\Demo\DAL\bin\Debug\net8.0\Demo.DTO.pdb
+C:\Users\CEO\source\repos\Demo\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\CEO\source\repos\Demo\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEO\source\repos\Demo\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\CEO\source\repos\Demo\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\CEO\source\repos\Demo\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\CEO\source\repos\Demo\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\CEO\source\repos\Demo\DAL\obj\Debug\net8.0\Demo.DAL.dll
+C:\Users\CEO\source\repos\Demo\DAL\obj\Debug\net8.0\refint\Demo.DAL.dll
+C:\Users\CEO\source\repos\Demo\DAL\obj\Debug\net8.0\Demo.DAL.pdb
+C:\Users\CEO\source\repos\Demo\DAL\obj\Debug\net8.0\ref\Demo.DAL.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\bin\Debug\net8.0\Demo.DAL.deps.json
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\bin\Debug\net8.0\Demo.DAL.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\bin\Debug\net8.0\Demo.DAL.pdb
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\bin\Debug\net8.0\Demo.DTO.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\bin\Debug\net8.0\Demo.DTO.pdb
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\Demo.DAL.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\refint\Demo.DAL.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\Demo.DAL.pdb
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Demo\DAL\obj\Debug\net8.0\ref\Demo.DAL.dll

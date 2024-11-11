@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="INI\FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INV\FormCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INV\FormConsultarSubcategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INV\FormItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INV\FormMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INV\FormSubcategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INV\FormUnidadMedida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
